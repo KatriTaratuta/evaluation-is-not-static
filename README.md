@@ -1,5 +1,8 @@
 # Evaluation Is Not Static: Measurement Failures in Adaptive LLM Systems
 
+###Exploratory Research | LLM Evaluation | Measurement Theory
+
+
 ## Overview
 
 Modern LLM evaluation assumes a static setting: a model produces outputs, and an evaluator measures their quality.
