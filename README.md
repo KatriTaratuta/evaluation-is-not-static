@@ -1,7 +1,6 @@
-# Evaluation Is Not Static: Measurement Failures in Adaptive LLM Systems
+# Evaluation Is Not Static: Measurement Failures in Adaptive LLM Systems   
 
-##Exploratory Research | LLM Evaluation | Measurement Theory
-
+## Exploratory Research | LLM Evaluation | Measurement Theory
 
 ## Overview
 
